@@ -174,7 +174,7 @@ h1{
 
 /*VISTA PARA EL CELULAR*/
 
-@media (max-width: 500px){
+@media (max-width: 600px){
 
     h1{
         font-size: 30px;
@@ -211,7 +211,7 @@ h1{
     }
 
     .contenido{
-        font-size: 15px;
+        font-size: 14px;
         line-height: 90%;
         padding: 15px;
     }
